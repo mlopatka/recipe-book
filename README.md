@@ -1,4 +1,4 @@
-# Cookbook
+# Recipe Book
 A collection of the various recipes I've gathered/collected. PRs welcome
 
 ## Format:
