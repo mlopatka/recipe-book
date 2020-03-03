@@ -6,8 +6,16 @@ I'd prefer measurements to be in metric when possible. Since most ovens in North
 
 Ideally, each recipe will have the format of:
 
-* Ingredients
-* Preperation
-* Cooking
-* Interesting story about Grandmother/travel abroad/neighbor's cat (known as the "get to the point" format).
+|  |
+| --- |
+| * Ingredients |
+| * Preperation |
+| * Cooking |
+| --- |
+| * Interesting story about Grandmother/travel abroad/neighbor's cat |
 
+This format is also known as the "get to the point" format.
+
+## Sections:
+
+* [Baked Goods](baked_goods)
