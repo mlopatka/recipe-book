@@ -2,7 +2,7 @@
 A collection of the various recipes I've gathered/collected. PRs welcome
 
 ## Format:
-I'd prefer measurements to be in metric when possible. Since most ovens in North America are in Farenheit, I will probably use that for temperatures.
+I'd prefer measurements to be in metric when possible. For temperatures, please redundantly list both Celcius and Farenheit.
 
 Ideally, each recipe will have the format of:
 
@@ -12,10 +12,19 @@ Ideally, each recipe will have the format of:
 | * Preperation |
 | * Cooking |
 | --- |
-| * Interesting story about Grandmother/travel abroad/neighbor's cat |
-
-This format is also known as the "get to the point" format.
+| * Contextual/Cultural information or origin of the recipe.
 
 ## Sections:
 
+* [Cocktails](Cocktails)
 * [Baked Goods](baked_goods)
+* [Desserts](Desserts)
+* [Meat](Meat)
+ * [Fish](Meat/Fish)
+ * [Pork](Meat/Pork)
+ * [Beef](Meat/Beef)
+ * [Lamb](Meat/Lamb)
+ * [Fowl](Meat/Fowl)
+ * [Pork](Meat/Pork)
+* [Pasta](Pasta)
+
