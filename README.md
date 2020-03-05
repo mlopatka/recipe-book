@@ -20,3 +20,5 @@ Ideally, each recipe will have the format of:
 * [spring](spring)
 * [summer](summer)
 * [autumn](autumn)
+* [baked_goods](baked_goods)
+* [all_season](all_season)
