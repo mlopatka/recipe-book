@@ -16,15 +16,7 @@ Ideally, each recipe will have the format of:
 
 ## Sections:
 
-* [Cocktails](Cocktails)
-* [Baked Goods](baked_goods)
-* [Desserts](Desserts)
-* [Meat](Meat)
- * [Fish](Meat/Fish)
- * [Pork](Meat/Pork)
- * [Beef](Meat/Beef)
- * [Lamb](Meat/Lamb)
- * [Fowl](Meat/Fowl)
- * [Pork](Meat/Pork)
-* [Pasta](Pasta)
-
+* [winter](winter)
+* [spring](spring)
+* [summer](summer)
+* [autumn](autumn)
