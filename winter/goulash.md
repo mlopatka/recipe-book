@@ -2,10 +2,10 @@
 
 ### Recept voor 3-4 personen
 
-### Bereidingstijd: 
+### Bereidingstijd
 * 3 uur
 
-## Ingredienten:
+## Ingrediënten
 
 * 700 gr runder riblappen
 * bloem
@@ -19,7 +19,7 @@
 * 2 tl tijm
 * snufje zwarte peper
 
-## Bereiding:
+## Bereiding
 * Snijd de uien en paprika’s in stukjes. 
 Snijd ook het vlees in stukken en haal het vlees door de bloem. 
 Verwarm een beetje boter/vloeibare margarine in een pan. 
