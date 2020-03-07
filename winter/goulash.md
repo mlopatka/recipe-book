@@ -3,16 +3,16 @@
 ## Ingredienten:
 
 * 700 gr runder riblappen
-   * bloem
-   * 2 uien
-   * 1-2 paprika’s
-   * 2 tl paprikapoeder
-   * 70 gr tomatenpuree
-   * circa 300 ml runderbouillon
-   * 1 laurierblaadje
-   * 2 tl karwijzaad
-   * 2 tl tijm
-   * snufje zwarte peper
+* bloem
+* 2 uien
+* 1-2 paprika’s
+* 2 tl paprikapoeder
+* 70 gr tomatenpuree
+* circa 300 ml runderbouillo
+* 1 laurierblaadje
+* 2 tl karwijzaad
+* 2 tl tijm
+* snufje zwarte peper
 
 ## Prep:
 * Snijd de uien en paprika’s in stukjes. 
