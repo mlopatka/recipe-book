@@ -4,7 +4,7 @@
 ### Bereidingstijd 
 * 30 minuten + 2-3 uur stooftijd
 
-## Ingredients
+## Ingredienten
 
 * 750–800 gram magere runderlappen,
 * 30 gram roomboter,
@@ -17,7 +17,7 @@
 * 250 ml Belgisch dubbel of trippel bier,
 * 250 ml rundervlees bouillon.
 
-## Prep
+## Bereiding
 * Haal het vlees een kwartiertje van tevoren uit de koelkast. 
 Dep het vlees aan beide kanten droog met een keukenpapiertje. 
 Laat de roomboter smelten in de braadpan en bak hierin het vlees rondom aan op hoog vuur, gedurende 2-3 minuten. 
@@ -31,7 +31,7 @@ Verkruimel vervolgens het ontbijtkoek over het vlees en giet hier het bier en bo
 Het vlees dien net onder de staan. 
 Sluit de pan af met de deksel en laat het Belgische stoofvlees met bier en ontbijtkoek gedurende 3 uur op laag vuur doorsudderen, met de deksel op de pan. Tussentijds wel een paar keer doorroeren met een houten lepel om aanbranden te voorkomen.
 
-## Serve 
+## Serveersuggestie 
 Serveer dit Belgische stoofvlees met gebakken aardappels/aardappelpuree en 
 gestoomde groente zoals bimi of geroosterde spruitjes.
 
