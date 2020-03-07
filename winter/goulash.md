@@ -26,4 +26,4 @@ zet de deksel op de pan en laat dit ongeveer 2,5 tot 3 uur zachtjes pruttelen.
 * Haal de deksel van de pan en laat de goulash nog even inkoken, dit duurt ongeveer 15 minuutjes (optioneel). 
 Verwijder dan het laurierblaadje en serveer de goulash bijvoorbeeld met rijst of aardappeltjes.
 
-* Bron: lekker en simpel[https://www.lekkerensimpel.com/goulash/]
+recipe credit: [lekker en simpel](https://www.lekkerensimpel.com/goulash/)
