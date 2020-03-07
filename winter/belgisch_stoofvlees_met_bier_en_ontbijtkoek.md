@@ -31,8 +31,6 @@ Verkruimel vervolgens het ontbijtkoek over het vlees en giet hier het bier en bo
 Het vlees dien net onder de staan. 
 Sluit de pan af met de deksel en laat het Belgische stoofvlees met bier en ontbijtkoek gedurende 3 uur op laag vuur doorsudderen, met de deksel op de pan. Tussentijds wel een paar keer doorroeren met een houten lepel om aanbranden te voorkomen.
 
-## Serveersuggestie 
-Serveer dit Belgische stoofvlees met gebakken aardappels/aardappelpuree en 
-gestoomde groente zoals bimi of geroosterde spruitjes.
+Serveersuggestie: Serveer dit Belgische stoofvlees met gebakken aardappels/aardappelpuree en gestoomde groente zoals bimi of geroosterde spruitjes.
 
 recipe credit: [Betty's kitchen](https://bettyskitchen.nl/belgisch-stoofvlees-met-bier-en-ontbijtkoek/)
