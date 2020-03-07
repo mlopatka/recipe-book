@@ -4,7 +4,7 @@
 ### Bereidingstijd 
 * 30 minuten + 2-3 uur stooftijd
 
-## Ingredienten
+## Ingrediënten
 
 * 750–800 gram magere runderlappen,
 * 30 gram roomboter,
