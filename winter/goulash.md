@@ -1,5 +1,10 @@
 # Goulash
 
+### Recept voor 3-4 personen
+
+### Bereidingstijd: 
+* 3 uur
+
 ## Ingredienten:
 
 * 700 gr runder riblappen
@@ -14,7 +19,7 @@
 * 2 tl tijm
 * snufje zwarte peper
 
-## Prep:
+## Bereiding:
 * Snijd de uien en paprika’s in stukjes. 
 Snijd ook het vlees in stukken en haal het vlees door de bloem. 
 Verwarm een beetje boter/vloeibare margarine in een pan. 
