@@ -14,7 +14,7 @@
 - 1 tablespoon ground cumin
 - 1/2 tablespoon cinnamon
 - 1 tablespoon caraway seed 
-- 8 to 16 large eggs
+- 8 large eggs (typically 2 eggs per person poached right before serving)
 
 ## Preparation
 
