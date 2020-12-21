@@ -1,7 +1,7 @@
 ## Ingredients
 - 3 tablespoons olive oil
-- 2 medium yellow onions, coarsely chopped
-- 4 large yellow/orange/red bell peppers (capsicum)
+- 1-2 medium yellow onions, coarsely chopped
+- 6 large yellow/orange/red bell peppers (capsicum)
 - 3 large aubergines (eggplant)
 - 4 garlic cloves, finely chopped
 - 2 large (796ml/28oz) cans of peeled crushed tomatoes
