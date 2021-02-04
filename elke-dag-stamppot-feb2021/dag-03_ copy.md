@@ -1,30 +1,29 @@
-# Italiaanse stamppot met aubergine 
-## Italian-style aubergine stamppot BLABLA
-_vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_
-Preparation time: 45 mins  
-2-3 portions  
+#  Zuurkoolstamppot met ananas 
+## Sour cabbage stammpot with pineapple 
+_dutch_, _stamppot_, _nederlandse keuken_, _28-dagen-stamppot_, _meat, _sweet and sour, _hollands
+Preparation time: 30 mins  
+3-4 portions  
 
-<img src="images/dag-01_italiaanse-stampot-met-aubergine.JPG" alt="drawing" width="400"/>  
+<img src="images/dag-03_Zuurkoolstamppot met ananas.JPG" alt="drawing" width="400"/>  
 
 ## Ingredients
-* 1kg soft-cooking potatoes, russet works fine)
-* 2 aubergines (approx. 450g)
-* 1 big red onion)
-* 3 tbsp. extra virgin olive oil
-* 350g button mushrooms / champignons (quartered) 
-* tomato paste (140g can)
-* 100g of ripened sheep cheese (shredded)
-* coarse salt 
+* 1kg soft-cooking potatoes (russet works fine)
+* 500 g zuurkool naturel (in a bag, including the fluid, or an entire sour cabbage cut into pieces)
+* 2 small hands full of raisins 
+* 250 g bacon (cut in small pieces) 
+* 425 g pineapple (fresh or from cans) 
+* pepper and salt 
 
 ## Preparation
-* Cut aubergines lengthwise into 4 parts of approximately equal thickness. Lightly brush them with olive oil, lay them out on a siblge layer on a cookie sheet and sprinkle with coarse salt (about 2 tsp). Bake (from cold) in the oven at 180°C for 45 minutes until lightly charred and browning. They should be very aromatic and loose about 20% water mass, your kitchen is goign to smell great.
-* Meanwhile, peel and cut potatoes into ~4-5cm cubes and place in a large pot. Fill up with cold tap water until the potatoes are completely submerged. Bring to a rolling boil and cook until the potatoes are soft enough than a fork easily passes through (about 15-20 minutes).
-* While the potatoe are boiling, slice the red onion(can be rings, or slivers) and fry with remaining olive oil in a deep pan. Once the onion softens, add the quartered mushrooms and continue to pan fry at medium / medium high heat.
-* Once the mushrooms and onions reach a soft and lightly seared consistency, add the tomato paste directly to the pan and toss with a spatula. Turn off the heat once the vegetables are fully coated in tomato pate. 
-* Remove the aubergines from the oven and allow to cool; once cold enough to handle, cut roasted aubergine into 2-3cm chunks. Drain the potatoes and let residual moisture evaporate for 2 minutes. Combine aubergie and potatoes and mash together until a homogenous but not smooth consistency is achieved with a masher. Fold in onion, mushroom, tomato portion from the pan.
-* Serve immediately with a handful of coursely grated sheep cheese on top.
+* Boil the cabbage in a pan with some water and boil for 20 minutes. 
+* Boil the potatoes with water in 20 minutes until they are soft. 
+* Fry the bacon. 
+* Poor the water off the potatoes and stamp them. Add salt and pepper to taste. 
+* Add the sour cabbage with some of the moisture to the potatoes. Optional, add some milk and the fat from the bacon. 
+* Cut pineapple in small pieces (approx. 1.5 cm) and add them together with the raisins to the stamppot. 
+* Serve with fried bacon. 
 
 ### Eet Smakelijk!
 
-recipe inspired by / adapted from [Albert Heijn NL](https://www.ah.nl/allerhande/recept/R-R719756/italiaanse-stamppot-met-aubergine)
+recipe source: [Leukerecepten NL](https://www.leukerecepten.nl/recepten/zuurkoolstamppot-met-ananas/)
 
