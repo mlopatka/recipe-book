@@ -1,13 +1,13 @@
 # Italiaanse stamppot met aubergine 
 ## Italian-style aubergine stamppot
-_vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_
+_vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_  
 Preparation time: 45 mins  
 2-3 portions  
 
 <img src="images/dag-01_italiaanse-stampot-met-aubergine.JPG" alt="drawing" width="400"/>  
 
 ## Ingredients
-* 1kg soft-cooking potatoes, russet works fine)
+* 1kg soft-cooking potatoes (russet works fine)
 * 2 aubergines (approx. 450g)
 * 1 big red onion)
 * 3 tbsp. extra virgin olive oil
