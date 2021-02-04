@@ -1,6 +1,6 @@
 #  Zuurkoolstamppot met ananas 
 ## Sour cabbage stammpot with pineapple 
-_dutch_, _stamppot_, _nederlandse keuken_, _28-dagen-stamppot_, _meat, _sweet and sour, _hollands
+_dutch_, _stamppot_, _nederlandse keuken_, _28-dagen-stamppot_, _meat_, _sweet and sour_
 Preparation time: 30 mins  
 3-4 portions  
 
