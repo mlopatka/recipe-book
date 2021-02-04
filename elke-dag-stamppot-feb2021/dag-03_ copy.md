@@ -4,7 +4,7 @@ _dutch_, _stamppot_, _nederlandse keuken_, _28-dagen-stamppot_, _meat, _sweet an
 Preparation time: 30 mins  
 3-4 portions  
 
-<img src="images/dag-03_Zuurkoolstamppot met ananas.JPG" alt="drawing" width="400"/>  
+<img src="images/signal-2021-02-04-114427.JPEG" alt="drawing" width="400"/>  
 
 ## Ingredients
 * 1kg soft-cooking potatoes (russet works fine)
