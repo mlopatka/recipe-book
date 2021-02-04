@@ -1,6 +1,7 @@
 #  Zuurkoolstamppot met ananas 
 ## Sour cabbage stamppot with pineapple 
 _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _meat_, _sweet and sour_
+
 Preparation time: 30 mins  
 3-4 portions  
 
