@@ -5,7 +5,7 @@ _vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dag
 Preparation time: 45 mins  
 2-3 portions  
 
-<img src="images/dag-01_italiaanse-stampot-met-aubergine.JPG" alt="drawing" width="400"/>  
+<img src="images/dag-01_italiaanse-stampot-met-aubergine.JPG" width="400"/>  
 
 ## Ingredients
 * 1kg soft-cooking potatoes, russet works fine)
