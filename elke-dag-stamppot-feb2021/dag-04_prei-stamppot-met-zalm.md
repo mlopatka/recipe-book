@@ -4,7 +4,7 @@ _fish_, _dutch_, _stamppot_, _nederlandse keuken_, _28-dagen-stamppot_
 Preparation time: 35 mins  
 2-3 portions  
 
-<img src="dag-04_prei-stamppot-met zalm.JPG" width="400">  
+<img src="images/dag-04_prei-stamppot-met-zalm.JPG" width="400">  
 
 ## Ingredients
 * 1kg soft-cooking potatoes, russet works fine)
