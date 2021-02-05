@@ -5,7 +5,7 @@ _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _meat_, _sweet a
 Preparation time: 30 mins  
 3-4 portions  
 
-<img src="images/signal-2021-02-04-114427.JPEG" alt="drawing" width="400"/>  
+<img src="images/dag-03_ zuurkoolstamppot.JPG" width="400">  
 
 ## Ingredients
 * 1 kg soft-cooking potatoes (russet works fine)

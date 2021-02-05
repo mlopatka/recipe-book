@@ -1,10 +1,10 @@
-# Italiaanse stamppot met aubergine 
-## Italian-style aubergine stamppot
-_vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_
-Preparation time: 45 mins  
+# Prei stamppot met zalm 
+## Leek stamppot with oven roasted salmon fillet
+_fish_, _dutch_, _stamppot_, _nederlandse keuken_, _28-dagen-stamppot_
+Preparation time: 35 mins  
 2-3 portions  
 
-<img src="images/dag-01_italiaanse-stampot-met-aubergine.JPG" alt="drawing" width="400"/>  
+<img src="dag-04_prei-stamppot-met zalm.JPG" width="400">  
 
 ## Ingredients
 * 1kg soft-cooking potatoes, russet works fine)
