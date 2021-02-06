@@ -5,7 +5,7 @@ _fish_, _Dutch_, _stamppot_, _vis_, _Nederlandse keuken_, _28-dagen-stamppot_
 Preparation time: 45 mins  
 2-3 portions  
 
-<img src="images/dag-05_hutspot.JPG" alt="drawing" width="400"/>  
+<img src="images/dag-05_hutspot.jpeg" alt="drawing" width="400"/>  
 
 ## Ingredients
 * 1kg soft-cooking potatoes (russet works fine)
