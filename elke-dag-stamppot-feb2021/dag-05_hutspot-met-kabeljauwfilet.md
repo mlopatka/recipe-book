@@ -1,5 +1,5 @@
 # Hutspot met kabeljauwfilet 
-## Hotchpotch (mashed potatoes and carrots) with cod fillet
+## Hutspot (mashed potatoes and carrots) with cod fillet
 _fish_, _Dutch_, _stamppot_, _vis_, _Nederlandse keuken_, _28-dagen-stamppot_
 
 Preparation time: 45 mins  
@@ -18,9 +18,9 @@ Preparation time: 45 mins
 
 ## Preparation
 * Peel potatoes, cut carrots in 1 cm pieces, and finely cut the onion.
-* Heat the butter in a frying pan. Heat the cod fillets until they fall apart, approx. 30-40 minutes. Add salt and white pepper to taste. 
 * Boil potatoes, carrots and onion in a big pot for 20 minutes until potatoes are soft.
+* Heat the butter in a frying pan. Add cod fillets and heat in butter until they fall apart, approx. 30-40 minutes. Add salt and white pepper to taste. 
 * At the same time, heat some milk (approx. 100 mL) in a small pot.
-* Poor water off from the potatoes, carrots, and onions. Mash with the heated milk. Add salt and white pepper to taste. 
+* drain the potato/carrot/onions mixture. Mash with the heated milk. Add salt and white pepper to taste. 
 
 ### Eet Smakelijk!
