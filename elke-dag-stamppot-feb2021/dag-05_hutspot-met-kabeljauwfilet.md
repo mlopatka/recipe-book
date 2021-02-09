@@ -1,7 +1,6 @@
 # Hutspot met kabeljauwfilet 
 ## Hutspot (mashed potatoes and carrots) with cod fillet
-_fish_, _Dutch_, _stamppot_, _vis_, _Nederlandse keuken_, _28-dagen-stamppot_
-
+_fish_, _Dutch_, _stamppot_, _vis_, _Nederlandse keuken_, _28-dagen-stamppot_  
 Preparation time: 45 mins  
 2-3 portions  
 
