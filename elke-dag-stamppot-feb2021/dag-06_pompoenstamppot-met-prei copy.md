@@ -1,6 +1,6 @@
 # Pompoenstamppot met prei
 ## potato pumpkin stamppot with leek and eggs
-_vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_
+_vegetarian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_  
 Preparation time: 45 mins  
 4 portions  
 
