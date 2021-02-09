@@ -1,7 +1,6 @@
 # Hutspot met restjes vegetarische chili
 ## potato carrot stamppot with leftover veggie chilli
-_vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_, _leftovers_
-
+_vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_, _leftovers_  
 Preparation time: 15 mins  
 2-3 portions  
 
