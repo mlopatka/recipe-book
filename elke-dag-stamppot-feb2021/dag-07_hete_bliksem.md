@@ -1,7 +1,6 @@
 # Hete bliksem 
 ## Stamppot with potatoes and apples
-_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_
-
+_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_  
 Preparation time: 30 mins  
 2-3 portions  
 
