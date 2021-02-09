@@ -1,6 +1,6 @@
 # Zoeteaardapel stamppot met spinazie
 ## Yam stamppot with spinach
-_vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_
+_vegetarian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_  
 Preparation time: 35 mins  
 2-3 portions  
 
