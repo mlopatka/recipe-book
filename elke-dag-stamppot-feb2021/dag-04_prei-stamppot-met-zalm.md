@@ -1,6 +1,6 @@
 # Prei stamppot met zalm 
 ## Leek stamppot with oven roasted salmon fillet
-_fish_, _dutch_, _stamppot_, _nederlandse keuken_, _28-dagen-stamppot_
+_fish_, _dutch_, _stamppot_, _nederlandse keuken_, _28-dagen-stamppot_  
 Preparation time: 35 mins  
 2-3 portions  
 
