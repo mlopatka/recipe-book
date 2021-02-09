@@ -10,7 +10,7 @@ Preparation time: 35 mins
 * 1.5kg sweet potatoes or yams (Japanese yams work well, but so do orange yams)
 * 350g fresh or frozen spinach
 * 200g walnut pieces
-* 450g soft unripened goat cheese
+* 300g soft unripened goat cheese
 * 50g butter
 * 100g pumpkin seeds
 * salt and pepper
