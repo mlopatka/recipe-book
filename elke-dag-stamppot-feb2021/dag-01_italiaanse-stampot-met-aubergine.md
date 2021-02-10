@@ -26,5 +26,6 @@ Preparation time: 45 mins
 
 ### Eet Smakelijk!
 
-recipe inspired by / adapted from [Albert Heijn NL](https://www.ah.nl/allerhande/recept/R-R719756/italiaanse-stamppot-met-aubergine)
+recipe inspired by / adapted from [Albert Heijn NL](https://www.ah.nl/allerhande/recept/R-R719756/italiaanse-stamppot-met-aubergine).  
+see the whole [28-dag-stamppot calendar](stamppot-advent-cal.html)
 
