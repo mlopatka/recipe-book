@@ -4,7 +4,7 @@ _vegetarian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dag
 Preparation time: 35 mins  
 2-3 portions  
 
-<img src="images/dag-08_XXX.JPG" width="400">  
+<img src="images/dag-08_zoeteaardapel-stamppot-met-spinazie.JPG" width="400">  
 
 ## Ingredients
 * 1.5kg sweet potatoes or yams (Japanese yams work well, but so do orange yams)
