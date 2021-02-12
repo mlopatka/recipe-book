@@ -23,7 +23,7 @@ Preparation time: 30 mins
 * Poor the water off the chick peas, and scoop them through the mash. 
 * Serve this Moroccan style hutspot with crushed almonds and goat cheese on top. Optional, add a fried egg. 
 
-### Eet Smakelijk!
+### Eet Smakelijk! 
 
-recipe inspired by / adapted from [Leuke Recepten NL](https://www.leukerecepten.nl/recepten/marokkaanse-stamppot/)
-
+recipe inspired by / adapted from [Leuke Recepten NL](https://www.leukerecepten.nl/recepten/marokkaanse-stamppot/) 
+ras el hanout recipe [Kruidenmix-maken NL] (https://kruidenmix-maken.nl/page/4294973415/kruidenmixen-zelf-marokkaanse-ras-el-hanout-kruidenmix-maken)
