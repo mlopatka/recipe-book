@@ -38,4 +38,5 @@ For the stamppot:
 ### Eet Smakelijk!
 
 stamppot recipe inspired by / adapted from [Lekker en Simpel NL](https://www.lekkerensimpel.com/rode-kool-stamppot/) 
+recipe for basic gehaktballen [Albert Heijn NL](https://www.ah.nl/allerhande/recept/R-R712922/hollandse-gehaktballen)
 
