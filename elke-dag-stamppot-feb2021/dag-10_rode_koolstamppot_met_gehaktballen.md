@@ -4,7 +4,7 @@ _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_
 Preparation time: 45 mins  
 2-3 portions  
 
-<img src="images/dag-10_rode_koolstamppot_met_gehaktballen.JPG" alt="drawing" width="400"/>  
+<img src="images/dag-10_rode_koolstamppot_met_gehaktballen.jpg" alt="drawing" width="400"/>  
 
 ## Ingredients
 For the gehaktballen: 
