@@ -3,38 +3,88 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
         <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,400i|Nunito:300,300i" rel="stylesheet">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="shortcut icon" type="image/png" href="img/favicon.png">
-
         <title>Elke Dag Stamppot February Calendar</title>
     </head>
-    <body>
-        <div class="container">
-            <div class="gallery">
-                
-		<figure class="gallery__item gallery__item--1">
-                    <a href="https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-01_italiaanse-stampot-met-aubergine.md"><img src="images/dag-01_italiaanse-stampot-met-aubergine.JPG" alt="dag-01_italiaanse-stampot-met-aubergine" class="gallery__img"></a>
-		</figure>
-                
-		<figure class="gallery__item gallery__item--2">
-                    <img src="img/image-2.jpg" alt="Gallery image 2" class="gallery__img">
-                </figure>
-                <figure class="gallery__item gallery__item--3">
-                    <img src="img/image-3.jpg" alt="Gallery image 3" class="gallery__img">
-                </figure>
-                <figure class="gallery__item gallery__item--4">
-                    <img src="img/image-4.jpg" alt="Gallery image 4" class="gallery__img">
-                </figure>
-                <figure class="gallery__item gallery__item--5">
-                    <img src="img/image-5.jpg" alt="Gallery image 5" class="gallery__img">
-                </figure>
-                <figure class="gallery__item gallery__item--6">
-                    <img src="img/image-6.jpg" alt="Gallery image 6" class="gallery__img">
-                </figure>
-            </div>
-        </div>
-    </body>
-</html>
+
+<style>
+/**
+.grid { 
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 7fr));
+  grid-gap: 20px;
+  align-items: stretch;
+  }
+*/
+.grid { 
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 10px;
+  align-items: stretch;
+  justify-items: stretch;
+  margin: auto;
+  /**width: 540px;*/
+  }
+
+.grid img:nth-child(2) {
+  grid-column: span 1;
+  grid-row: span 1;
+  }
+
+.grid img {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  max-width: 100%;
+  width: 120px;
+  height: 120px;
+  border-radius: 110%;
+  border: 1px solid #A69CA2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  object-fit: cover;
+}
+.grid img:hover {
+  width: 140px;
+  height: 140px;
+  border-radius: 100%;
+  border: 1px solid #A69CA2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  transition: all 400ms;
+  object-fit: cover;
+}
+
+</style>
+
+<main class="grid">
+
+<figure class="img">
+	<a href="https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-01_italiaanse-stampot-met-aubergine.md">
+	<img src="https://raw.githubusercontent.com/mlopatka/recipe-book/master/elke-dag-stamppot-feb2021/images/dag-01_italiaanse-stampot-met-aubergine.JPG"</a>
+</figure>
+
+<figure class="img">
+        <a href="https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-02_hutspot-met-groentenchili.md">
+	<img src="https://raw.githubusercontent.com/mlopatka/recipe-book/master/elke-dag-stamppot-feb2021/images/dag-02_hutspot-met-groentenchilli.JPG"</a>
+</figure>
+
+<figure class="img">
+        <a href="https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-03_%20zuurkoolstamppot.md">
+        <img src="https://raw.githubusercontent.com/mlopatka/recipe-book/master/elke-dag-stamppot-feb2021/images/dag-03_%20zuurkoolstamppot.JPG"</a>
+</figure>
+
+<figure class="img">
+        <a href="https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-03_%20zuurkoolstamppot.md">
+        <img src="https://raw.githubusercontent.com/mlopatka/recipe-book/master/elke-dag-stamppot-feb2021/images/dag-03_%20zuurkoolstamppot.JPG"</a>
+</figure>
+
+<figure class="img">
+        <a href="https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-03_%20zuurkoolstamppot.md">
+        <img src="https://raw.githubusercontent.com/mlopatka/recipe-book/master/elke-dag-stamppot-feb2021/images/dag-03_%20zuurkoolstamppot.JPG"</a>
+</figure>
+
+</main></body></html>
