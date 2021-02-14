@@ -10,7 +10,7 @@ Preparation time: 15 mins
 
 ## Preparation
 This day was using up leftover hutspot and leftover vegetarian chilli that were both in portions too small to make up a full meal.  
-* The hutspot recipe can be found [here]https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-05_hutspot-met-kabeljauwfilet)
+* The hutspot recipe can be found [here](https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-05_hutspot-met-kabeljauwfilet)
 * The chilli recipe can be found here [here](https://github.com/mlopatka/recipe-book/blob/master/elke-dag-stamppot-feb2021/dag-02_hutspot-met-groentenchili.md)
 
 Reheat the hutpot in a non-stick deep saucepan keeping it from burning with a spatula. Meanwhile reheat the chilli in a pot. Serve hot with whatever additional leftover cheese you would like to grate on top.
