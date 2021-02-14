@@ -4,7 +4,7 @@ _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _vegetarian_, _v
 Preparation time: 60 mins  
 2-3 portions  
 
-<img src="images/dag-13_rood-bieten-stamppot.JPG" width="400">  
+<img src="images/dag-13_bieten-stamppot.JPG" width="400">  
 
 ## Ingredients
 * 800 g soft-cooking potatoes (russet works fine)
