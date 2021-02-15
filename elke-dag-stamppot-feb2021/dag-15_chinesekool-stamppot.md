@@ -7,13 +7,14 @@ Preparation time: 40 mins
 <img src="images/dag-15_chinesekool-stamppot.jpg" width="400">  
 
 ## Ingredients
-* 1 kg soft-cooking potatoes (russet works fine)
-* 1/2 of a large green chinese cabbage (approx. 500g) substitute for savoy cabbage if you want a sweeter flavour
+* 900 g soft-cooking potatoes (russet works fine)
+* 600 g green chinese cabbage substitute for savoy cabbage if you want a sweeter flavour
 * 300 g pork loin
-* 2 tsp olive oil
-* 100ml milk
+* 50ml milk
+* 40 g butter
+* 1 tbsp grapeseed oil
 * pepper and salt 
-* 1 sweet white onion
+* 1 large sweet white onion
 * 2 tbsp ketjap manis 
 * 1 tbsp brown sugar
 * 1 tbsp coarse rock salt
