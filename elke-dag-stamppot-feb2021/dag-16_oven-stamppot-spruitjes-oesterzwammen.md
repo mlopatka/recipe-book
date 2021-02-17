@@ -1,10 +1,10 @@
-# Chinese Kool Stamppot met speklappjes
-## Chinese Cabbage Stamppot with pork loin
-_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _pork_, _asian fusion_  
-Preparation time: 40 mins  
+# Stamppot uit de oven met pruitjes oesterzwammen en oude kaas
+## Oven baked stamppot with spruits, oystermushrooms, and aged farmer's cheese
+_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_
+Preparation time: 60 mins  
 2-3 portions  
 
-<img src="images/dag-15_chinesekool-stamppot.jpg" width="400">  
+<img src="images/dag-16_oven-stamppot-spruitjes-oesterzwammen.jpg" width="400">  
 
 ## Ingredients
 * 900 g soft-cooking potatoes (russet works fine)
@@ -29,4 +29,4 @@ Preparation time: 40 mins
 * Serve hot stamppot topped wiht pork loin strips and (optional) dry fried onions sprinkled on top.
 
 ### Eet Smakelijk! 
-Recipe inspired by / adapted from: [Lidl](https://recepten.lidl.nl/recept/chinese-koolstamppot-met-speklapjes)
+Recipe inspired by / adapted from: [De Hippe Vegetarier](https://www.dehippevegetarier.nl/vegetarische-recepten/stamppot-oven-spruitjes-oesterzwammen-en-oude-kaas/)
