@@ -1,13 +1,13 @@
-# Pastinaak Zoetaardappel Pompoen Stamppot met Hazelnooten
-## Parsnip Pumpkin Yam stamppot with hazel nuts 
-_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _vegetarian_, _vegetarische_, _goat cheese_
-Preparation time: 30 mins  
+# Witlof stamppot met appel en spekjes
+## Endive stamppot with apple and bacon
+_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_  
+Preparation time: 25 mins  
 3-4 portions  
 
-<img src="images/dag-17_pastinaak-zoetaardappel-pompoen-stamppot.jpg" width="400">  
+<img src="images/dag-17_witlofstamppot_met_appel.jpg" width="400">  
 
 ## Ingredients
-* 500 g pumpkin (or squash)
+* 1 kg
 * 500 g parsnips
 * 300 g sweet potato (orange yams)
 * 50 g butter
