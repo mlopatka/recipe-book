@@ -25,3 +25,4 @@ Preparation time: 25 mins
 * Lastly, mix the apple dices through the mixture.
 
 ### Eet Smakelijk!
+Recipe inspired by / adapted from: [Leuke Recepten NL](https://www.leukerecepten.nl/recepten/witlof-stamppot-appel/)
