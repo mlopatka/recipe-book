@@ -1,6 +1,6 @@
 # Rucola Pastinaak Stamppot met Lamsvlees 
 ## Arugula and Parsnip Stamppot with Lamb
-_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _lamb_
+_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _lamb_  
 Preparation time: 40 mins  
 3-4 portions  
 
