@@ -1,7 +1,7 @@
-# Rucola Pastinaak Stamppot met Lamsvlees 
-## Arugula and Parsnip Stamppot with Lamb
-_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _lamb_
-Preparation time: 40 mins  
+# Bloemkoolstamppot met Kokos-Curry en oude Kaas.
+## Cauliflower Coconut Curry Stamppot with Old Cheddar 
+_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _fusion_, _vegetarian_, _vegetarische_  
+Preparation time: 35 mins  
 3-4 portions  
 
 <img src="images/dag-22_XXX.jpg" width="400">  
