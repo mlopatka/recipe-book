@@ -4,7 +4,7 @@ _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _lamb_
 Preparation time: 40 mins  
 3-4 portions  
 
-<img src="images/dag-21_ruccola-pastinaak-stamppot-met-lamsvlees.jpg width="400">  
+<img src="images/dag-21_ruccola-pastinaak-stamppot-met-lamsvlees.jpg" width="400">  
 
 ## Ingredients
 * 800 g soft cooking potatoes (russet work fine)

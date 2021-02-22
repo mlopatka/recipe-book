@@ -4,7 +4,7 @@ _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _vegetarian_ , 
 Preparation time: 35 mins  
 4 portions  
 
-<img src="images/dag-19_erwtenstamppot_met_omelet.jpg width="400">  
+<img src="images/dag-19_erwtenstamppot_met_omelet.jpg" width="400">  
 
 ## Ingredients
 ### White bean hutspot
