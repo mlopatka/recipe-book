@@ -4,7 +4,7 @@ _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _vegetarian_, _
 Preparation time: 35 mins  
 4 portions  
 
-<img src="images/dag-20_witte_bonen_hutspot_met_hache.jpg" width="400">  
+<img src="images/dag-20_wittebonnen-hutspot-met-hashe.jpg" width="400">  
 
 ## Ingredients
 ### White bean hutspot

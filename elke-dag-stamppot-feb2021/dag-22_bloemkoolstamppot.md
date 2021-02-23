@@ -1,10 +1,10 @@
-# Bloemkoolstamppot met Kokos-Curry en oude Kaas.
+# Bloemkoolstamppot met Kokos-Curry en Oude Kaas.
 ## Cauliflower Coconut Curry Stamppot with Old Cheddar 
 _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _fusion_, _vegetarian_, _vegetarische_  
 Preparation time: 35 mins  
 3-4 portions  
 
-<img src="images/dag-22_XXX.jpg" width="400">  
+<img src="images/dag-22_bloemkoolstamppot.jpg" width="400">  
 
 ## Ingredients
 * 700 g soft cooking potatoes (russet work fine)
