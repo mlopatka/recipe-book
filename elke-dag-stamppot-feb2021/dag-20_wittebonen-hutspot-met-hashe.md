@@ -36,5 +36,5 @@ Preparation time: 35 mins
 * Mix the white beans through the mash. 
 
 ### Eet Smakelijk!
-Hutspot variation inspired by / adapted from: [Kookidee](https://kookidee.nl/recepten/hoofdgerecht/hutspot-met-witte-bonen-en-gebakken-spekreepjes/)
+Hutspot variation inspired by / adapted from: [Kookidee](https://kookidee.nl/recepten/hoofdgerecht/hutspot-met-witte-bonen-en-gebakken-spekreepjes/)  
 Hashé portion was adapted from: [Jumbo](https://www.jumbo.com/recepten/hutspot-met-draadjesvlees-501458)
