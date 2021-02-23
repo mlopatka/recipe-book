@@ -9,7 +9,7 @@ Preparation time: 35 mins
 ## Ingredients
 * 1 kg soft-cooking potatoes (russet works fine)
 * 750 g frozen green peas 
-* * 5 eggs
+* 5 eggs
 * 200 g crème fraiche (or sour cream)
 * 100-150 mL milk
 * sambal
