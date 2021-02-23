@@ -1,4 +1,4 @@
-# Witte bonen hutspot met haché 
+# Hutspot met witte bonen en haché 
 ## White bean hutspot with haché meat
 _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_ , _vegetarian_ , _vegetarisch_  
 Preparation time: 35 mins  
