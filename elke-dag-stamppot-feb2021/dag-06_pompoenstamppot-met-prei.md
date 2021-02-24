@@ -29,3 +29,5 @@ Preparation time: 45 mins
 * Serve immediately with stamppot layer and eggs on top.
 
 ### Eet Smakelijk!
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
