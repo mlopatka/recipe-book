@@ -38,3 +38,6 @@ Preparation time: 35 mins
 ### Eet Smakelijk!
 Hutspot variation inspired by / adapted from: [Kookidee](https://kookidee.nl/recepten/hoofdgerecht/hutspot-met-witte-bonen-en-gebakken-spekreepjes/)  
 Hashé portion was adapted from: [Jumbo](https://www.jumbo.com/recepten/hutspot-met-draadjesvlees-501458)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
+
