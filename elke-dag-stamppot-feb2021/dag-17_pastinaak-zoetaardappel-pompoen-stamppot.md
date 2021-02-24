@@ -1,6 +1,6 @@
 # Pastinaak Zoetaardappel Pompoen Stamppot met Hazelnooten
 ## Parsnip Pumpkin Yam stamppot with hazel nuts 
-_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _vegetarian_, _vegetarische_, _goat cheese_
+_Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _vegetarian_, _vegetarische_  
 Preparation time: 30 mins  
 3-4 portions  
 
