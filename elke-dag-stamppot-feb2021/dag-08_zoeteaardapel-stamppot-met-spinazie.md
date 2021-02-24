@@ -24,3 +24,5 @@ Preparation time: 35 mins
 * Serve immediately with pumpkin seeds sprinkled on top.
 
 ### Eet Smakelijk!
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
