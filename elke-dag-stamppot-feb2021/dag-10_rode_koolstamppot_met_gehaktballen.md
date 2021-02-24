@@ -40,3 +40,4 @@ For the stamppot:
 stamppot recipe inspired by / adapted from [Lekker en Simpel NL](https://www.lekkerensimpel.com/rode-kool-stamppot/)  
 recipe for basic Dutch style gehaktballen [Albert Heijn NL](https://www.ah.nl/allerhande/recept/R-R712922/hollandse-gehaktballen)
 
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
