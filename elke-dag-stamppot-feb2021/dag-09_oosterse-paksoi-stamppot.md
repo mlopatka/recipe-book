@@ -32,3 +32,5 @@ Preparation time: 25-30 mins
 ### Eet Smakelijk!
 
 Recipe inspired by / adapted from [www.lekkerensimpel.com](https://www.lekkerensimpel.com/paksoi-stamppot/)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
