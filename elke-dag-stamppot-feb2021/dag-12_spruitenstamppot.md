@@ -24,3 +24,5 @@ Preparation time: 40 mins
 * Serve topped with a fried egg. 
 
 ### Eet Smakelijk! 
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
