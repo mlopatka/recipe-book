@@ -28,3 +28,5 @@ Preparation time: 60 mins
 
 ### Eet Smakelijk! 
 Recipe inspired by / adapted from: [De Hippe Vegetarier](https://www.dehippevegetarier.nl/vegetarische-recepten/stamppot-oven-spruitjes-oesterzwammen-en-oude-kaas/)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
