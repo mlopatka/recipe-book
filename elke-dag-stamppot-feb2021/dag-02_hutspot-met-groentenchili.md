@@ -1,5 +1,5 @@
 # Hutspot met restjes vegetarische chili
-## potato carrot stamppot with leftover veggie chilli
+## Potato carrot stamppot with leftover veggie chili
 _vegetraian_, _dutch_, _stamppot_, _vegetarische_, _nederlandse keuken_, _28-dagen-stamppot_, _leftovers_  
 Preparation time: 15 mins  
 2-3 portions  
@@ -16,3 +16,5 @@ This day was using up leftover hutspot and leftover vegetarian chilli that were 
 Reheat the hutpot in a non-stick deep saucepan keeping it from burning with a spatula. Meanwhile reheat the chilli in a pot. Serve hot with whatever additional leftover cheese you would like to grate on top.
 
 ### Eet Smakelijk!
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
