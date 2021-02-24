@@ -26,3 +26,6 @@ Preparation time: 35 mins
 
 ### Eet Smakelijk!
 recipe inspired by / adapted from [Koken met Koos](http://www.kokenmetkoos.nl/stamppotten/bloemkoolstamppot/)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
+
