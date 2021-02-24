@@ -9,7 +9,7 @@ Preparation time: 24 hours to soak beans + 60 mins
 ## Ingredients
 * 1 kg soft cooking potatoes (russet work fine)
 * 400 g dried brown beans (small red kidney beans)
-* 1 grote zure appel of 2 kleine (e.g., granny smith)
+* 1 big sour apple or 2 smaller ones (e.g., granny smith)
 * a dash of milk
 * some butter
 * salt, pepper, curry powder
