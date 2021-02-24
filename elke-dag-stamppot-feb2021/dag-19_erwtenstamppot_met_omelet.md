@@ -25,3 +25,5 @@ Preparation time: 35 mins
 
 ### Eet Smakelijk!
 Recipe inspired by: [Leuke Recepten NL](https://www.leukerecepten.nl/recepten/erwten-stamppot-pittige-hamblokjes/)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
