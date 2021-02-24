@@ -28,3 +28,5 @@ Preparation time: 60 mins
 
 ### Eet Smakelijk! 
 Recipe inspired by /adapted from: [leukerecepten.nl](https://www.leukerecepten.nl/recepten/bietenstamppot/)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
