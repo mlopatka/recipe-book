@@ -27,3 +27,4 @@ Preparation time: 30 mins
 
 recipe source: [Leukerecepten NL](https://www.leukerecepten.nl/recepten/zuurkoolstamppot-met-ananas/)
 
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
