@@ -27,3 +27,5 @@ Preparation time: 24 hours to soak beans + 60 mins
 
 ### Eet Smakelijk!
 recipe source [Koken met Koos](http://www.kokenmetkoos.nl/stamppotten/bruine-bonen-stamppot/)
+
+[](https://mlopatka.github.io/recipe-book/)
