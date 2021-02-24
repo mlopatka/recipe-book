@@ -27,3 +27,5 @@ Preparation time: 30 mins
 
 recipe inspired by / adapted from [Leuke Recepten NL](https://www.leukerecepten.nl/recepten/marokkaanse-stamppot/)  
 ras el hanout recipe [Kruidenmix-maken NL](https://kruidenmix-maken.nl/page/4294973415/kruidenmixen-zelf-marokkaanse-ras-el-hanout-kruidenmix-maken)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
