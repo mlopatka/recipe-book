@@ -23,3 +23,5 @@ Preparation time: 45 mins
 * drain the potato/carrot/onions mixture. Mash with the heated milk. Add salt and white pepper to taste. 
 
 ### Eet Smakelijk!
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
