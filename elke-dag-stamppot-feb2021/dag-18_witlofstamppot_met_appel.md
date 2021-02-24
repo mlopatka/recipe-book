@@ -26,3 +26,5 @@ Preparation time: 25 mins
 
 ### Eet Smakelijk!
 Recipe inspired by / adapted from: [Leuke Recepten NL](https://www.leukerecepten.nl/recepten/witlof-stamppot-appel/)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
