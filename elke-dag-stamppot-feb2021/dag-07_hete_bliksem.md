@@ -27,3 +27,4 @@ Preparation time: 30 mins
 
 source [Leuke Recepten NL](https://www.leukerecepten.nl/recepten/hete-bliksem/)
 
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
