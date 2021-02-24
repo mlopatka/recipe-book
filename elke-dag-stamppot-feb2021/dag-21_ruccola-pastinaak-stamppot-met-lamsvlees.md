@@ -30,3 +30,6 @@ Preparation time: 40 mins
 * Serve in the centre of a large plate with the lamb piece nestled into the stamppot.
 
 ### Eet Smakelijk!
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
+
