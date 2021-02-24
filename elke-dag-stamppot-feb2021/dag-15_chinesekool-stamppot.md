@@ -30,3 +30,6 @@ Preparation time: 40 mins
 
 ### Eet Smakelijk! 
 Recipe inspired by / adapted from: [Lidl](https://recepten.lidl.nl/recept/chinese-koolstamppot-met-speklapjes)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
+
