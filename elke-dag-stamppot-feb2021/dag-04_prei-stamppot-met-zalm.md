@@ -31,3 +31,5 @@ Preparation time: 35 mins
 
 recipe inspired by / adapted from [leukerecepten.nl](https://www.leukerecepten.nl/recepten/preistamppot-met-mosterd-dille-zalm/ )
 
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
+
