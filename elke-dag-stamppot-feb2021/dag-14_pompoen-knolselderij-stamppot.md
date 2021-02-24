@@ -1,4 +1,4 @@
-# Pompoen knoolcelerij Stamppot
+# Pompoen knolselderij Stamppot
 ## Pumpkin Celeriac Stamppot
 _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _vegetarian_, _vegetarische_  
 Preparation time: 40 mins  
@@ -27,3 +27,5 @@ Preparation time: 40 mins
 
 ### Eet Smakelijk! 
 Recipe inspired by / adapted from: [lekkerensimpel.com](https://www.lekkerensimpel.com/stamppot-met-pompoen-en-knolselderij/)
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
