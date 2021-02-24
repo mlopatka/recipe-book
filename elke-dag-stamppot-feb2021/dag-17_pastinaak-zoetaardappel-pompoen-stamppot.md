@@ -30,3 +30,5 @@ Preparation time: 30 mins
 * Serve hot stamppot topped with fresh tomato wedges on top.
 
 ### Eet Smakelijk! 
+
+back to the [28-dag-stamppot calendar](https://mlopatka.github.io/recipe-book/)
