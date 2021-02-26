@@ -4,7 +4,7 @@ _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _vegetarisch_, _
 Preparation time: 50 mins  
 3 portions  
 
-<img src="images/dag-24_spruitjesstamppot_met_teriyaki.jpg" width="400">  
+<img src="images/dag-25_spruitjesstamppot_met_teriyaki.jpg" width="400">  
 
 ## Ingredients
 * 900 g soft cooking potatoes (russet work fine)
