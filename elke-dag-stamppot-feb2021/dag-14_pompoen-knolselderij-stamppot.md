@@ -4,7 +4,7 @@ _Dutch_, _stamppot_, _Nederlandse keuken_, _28-dagen-stamppot_, _vegetarian_, _v
 Preparation time: 40 mins  
 2-3 portions  
 
-<img src="images/dag-14_pompoen-knoolcelerij-stamppot.jpg" width="400">  
+<img src="images/dag-14_pompoen-knolcelerij-stamppot.jpg" width="400">  
 
 ## Ingredients
 * 600 g soft-cooking potatoes (russet works fine)
