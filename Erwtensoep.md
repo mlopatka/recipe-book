@@ -1,7 +1,7 @@
 # Erwtensoep
 ## Split pea soup
 _dutch_,  _nederlandse keuken_  
-Preparation time: 45 mins  
+Preparation time: 90 mins  
 4-5 portions  
 
 ## Ingredients
@@ -14,13 +14,14 @@ Preparation time: 45 mins
 * 2 stock cubes (beef flavour)
 * black pepper
 * smoked sausage
+* rye bread
 
 ## Preparation
 * Wash split peas and bring to boil in enough but not too much water. Let boil for approx 1 hour.
 * Meanwhile, cut carrots, knolselderij, leak, and onion. Add cut vegetables, stock cubes and bay leaves and let cook for at least 30 minutes more. 
 * Blend the soup with a hand blender. Don't forget to remove the bayleaves first. 
 * Bring to taste with black pepper.
-* Serve with smoked sausage.
+* Serve with smoked sausage and rye bread.
 
 ### Eet Smakelijk!
 
