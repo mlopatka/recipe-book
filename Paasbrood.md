@@ -29,7 +29,8 @@ Preparation time: 2.5 hours
 * Let the bread proof in the bread form in the oven, for 30-45 minutes at 35 degrees. 
 * Cover the bread with a thin layer of butter.
 * Bake for 30 minutes at 190 degrees. 
-* Serve covered in butter and sprinkled with icing sugar. 
+* Sprinkle with water and leave in the oven for 1 minute. 
+* After it's been cooled, serve covered in butter and sprinkled with icing sugar. 
 
 ### Eet Smakelijk!
 
