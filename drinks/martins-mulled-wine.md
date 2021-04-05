@@ -1,4 +1,4 @@
-## Feative Mulled wine for cold weather occasions
+## Festive Mulled wine for cold weather occasions
 Preparation time: 30 minutes
 4 servings (180ml mug)  
 
