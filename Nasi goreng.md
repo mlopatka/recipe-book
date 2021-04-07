@@ -42,7 +42,7 @@ Side dishes:
 
 ### Eet Smakelijk!
 
-pindasaus recipe adapted from [Puur Suzanne]https://www.puursuzanne.nl/recepten/zelf-pindasaus-maken  
-see for more inspiration for example this nasi goreng recipe [Leuke recepten NL]https://www.leukerecepten.nl/recepten/nasi-goreng/
+pindasaus recipe adapted from [Puur Suzanne](https://www.puursuzanne.nl/recepten/zelf-pindasaus-maken)  
+see for more inspiration for example this nasi goreng recipe [Leuke recepten NL](https://www.leukerecepten.nl/recepten/nasi-goreng/)
 
 
