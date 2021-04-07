@@ -1,7 +1,7 @@
 # Nasi goreng met pindasaus
 ## Nasi goreng with peanut sauce
 _vegetarian_, _dutch_, _Indonesian_, _vegetarische_, Indonesische keuken_  
-Preparation time: 40 mins + 20 mins
+Preparation time: 40 mins + 20 mins  
 2-3 portions  
 
 ## Ingredients
@@ -17,6 +17,7 @@ Nasi goreng:
 * salt
 * ketjap manis
 * sambal oelek
+
 Peanut sauce:
 * 1 garlic clove, finely chopped
 * 1 small onion, finely chopped
@@ -25,6 +26,7 @@ Peanut sauce:
 * 2 tbsp ketjap manis
 * 1 tsp sambal oelek
 * juice of 1 lime
+
 Side dishes: 
 * 1 cucumber
 * 5 eggs
