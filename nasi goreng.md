@@ -1,6 +1,6 @@
 # Nasi goreng met pindasaus
 ## Nasi goreng with peanut sauce
-_vegetarian_, _dutch_, _Indonesian_, _vegetarische_, Indonesische keuken_  
+_vegetarian_, _dutch_, _Indonesian_, _vegetarische_, _Indonesische keuken_  
 Preparation time: 40 mins + 20 mins  
 2-3 portions  
 
@@ -42,7 +42,7 @@ Side dishes:
 
 ### Eet Smakelijk!
 
-pindasaus recipe adapted from [Puur Suzanne] https://www.puursuzanne.nl/recepten/zelf-pindasaus-makend
+pindasaus recipe adapted from [Puur Suzanne] https://www.puursuzanne.nl/recepten/zelf-pindasaus-maken  
 see for more inspiration for example this nasi goreng recipe [Leuke recepten NL] https://www.leukerecepten.nl/recepten/nasi-goreng/
 
 
