@@ -4,6 +4,8 @@ _vegetarian_, _dutch_, _Indonesian_, _vegetarische_, _Indonesische keuken_
 Preparation time: 40 mins + 20 mins  
 2-3 portions  
 
+<img src="images/nasi-goreng.jpg" width="400">  
+
 ## Ingredients
 Nasi goreng:
 * 1.5 cups of brown rice (zilvervlies rijst)
