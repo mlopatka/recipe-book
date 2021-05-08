@@ -14,7 +14,7 @@ Preparation time: 50 mins
 * 150 grams or 1 1/2 cups walnuts
 * 100 ml or 1/2 cup very hot water (or a little less)
 * 2 cloves minced garlic
-* 1 teaspoon khmeli suneli 
+* 1 teaspoon khmeli suneli (mixture of ground fenugreek seeds, coriander, dill, celery, parsley, basil, savory and black peppercorns)
 * 1/2 teaspoon ground coriander
 * 2 teaspoons white wine vinegar
 * fresh dill
@@ -31,3 +31,4 @@ Preparation time: 50 mins
 ### Eet Smakelijk!
 
 recipe inspired by / adapted from [Happy Kitchen Rocks](https://happykitchen.rocks/georgian-eggplant-rolls-with-walnuts/)
+recipe of khmeli suneli [Happy Kitchen Rocks](https://happykitchen.rocks/tkemali-georgian-plum-sauce-khmeli-suneli-seasoning-recipe/)
