@@ -1,8 +1,10 @@
 # Stuffed BBQ Pumpkins/Squashes
-## gerookt gestuft pompoenen op de bbq
+## gerookte gevulde pompoenen op de BBQ
 _vegetarian_, _bbq_, _grill_, _squashes_, _canadian_, _charcoal_
+
 Preparation time: 30 mins + 120 mins  
-2-4 portions  
+
+makes: 2-4 portions  
 
 <img src="images/squash1.jpg" width="400">  
 <img src="images/squash2.jpg" width="400">  
