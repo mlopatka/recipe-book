@@ -1,3 +1,5 @@
+## Ingredients
+
 * 500g fatty ground beef (not lean)
 * 1 large sweet onion - finely diced (substitute for 2 medium yellow onions)
 * 8 cloves of garlic - finely minced
@@ -9,6 +11,9 @@
 * 1/2 teaspoon ground cumin
 * Salt and pepper 
 * optional (garlic powder / onion powder)
+
+
+## Instructions
 
 Mash all that together and (optionaly) pass it through a meet grinder once more.
 
