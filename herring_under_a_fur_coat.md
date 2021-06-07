@@ -2,7 +2,7 @@
 # Sheldt pod shuboi  
 ## Herring under a fur coat  
 _Russian_, _fish_  
-Preparation time: 45 mins  
+Preparation time: 60 mins, and 6 hours in fridge
 4-6 portions
 
 <img src="images/Herring_under_fur_coat.jpg" alt="drawing" width="400"/>  
