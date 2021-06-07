@@ -5,7 +5,7 @@ _Russian_, _fish_
 Preparation time: 45 mins  
 4-6 portions
 
-<img src="images/Herring_under_fur_coat.JPG" alt="drawing" width="400"/>  
+<img src="images/Herring_under_fur_coat.jpg" alt="drawing" width="400"/>  
 
 ## Ingredients
 * 3 potatoes
