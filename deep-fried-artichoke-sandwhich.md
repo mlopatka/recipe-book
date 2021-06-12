@@ -1,3 +1,13 @@
+# Fried Artichoke Sandwich  
+_Fried_, _vegetarian_
+
+Preparation time: 40 mins
+
+3 portions (but you can totally handle it with 2 hungry people)
+
+<img src="images/fried_artichokes_01.jpg" alt="drawing" width="400"/>  
+<img src="images/fried_artichokes_02.jpg" alt="drawing" width="400"/>  
+
 ## Ingredients
 ### Red Cabbage coleslaw
 - 2 cups hand shredded (roughly) purple cabbage
