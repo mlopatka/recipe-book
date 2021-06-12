@@ -52,7 +52,7 @@ Preparation time: 40 mins
 7. It shold take about 4 to 6 minutes and 2-3 times turning the artichoke pieces over, until they are crispy and golden brown all over.
 8. Transfer the finished artichokes to a paper towel or wire rack to cool.
 ### Assemble the sandwhiches
-You know what to do here, come one.
+You know what to do here, come on...
 
 Eet Smakelijk!
 recipe inspired by this [epicurious post](https://www.epicurious.com/recipes/food/views/fried-artichoke-sandwich-lauren-toyota) despite its incredibly disapointing slaw.
