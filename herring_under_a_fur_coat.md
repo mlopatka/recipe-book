@@ -20,7 +20,7 @@ Preparation time: 60 mins, and 6 hours in fridge
 
 ## Preparation
 * Boil the beets for 45 - 60 mins. Peel them and let them cool completely.
-* Peel potatoes and onions. Boil them until they are soft and let them cool completely (approx. 20 mins). This can be done the night before. 
+* Peel potatoes and carrots. Boil them until they are soft and let them cool completely (approx. 20 mins). This can be done the night before. 
 * Boil the eggs for 10 mins. 
 * Finely chop the half onion and the herring. 
 * In a large oven dish, start layering. Start with (coarsely) grated potatoe, then the finely chopped onion. Continue with finely chopped herrings, topped by a layer of grated carrots.
