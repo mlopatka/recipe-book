@@ -5,7 +5,7 @@
 * 6-12 uur weken kapucijners
 * 60 minuten
 
-<img src="images/captainsdinner.jpg" width="400">  
+<img src="images/captainsdinner.png" width="400">  
 
 
 ## Ingrediënten
