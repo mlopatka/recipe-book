@@ -15,7 +15,7 @@
 * 1 grote witte ui
 * 2 friszure appels
 * een eetlepel honing
-* spek (bijvoorbeeld apple-moked-bacon)
+* spek (bijvoorbeeld apple-smoked-bacon)
 * augurken
 * roomboter
 * olijfolie
