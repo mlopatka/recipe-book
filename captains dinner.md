@@ -12,7 +12,7 @@
 
 * 250 g droge kapucijners
 * 3-4 winterwortelen
-* 1 grote witte uit
+* 1 grote witte ui
 * 2 friszure appels
 * een eetlepel honing
 * spek (bijvoorbeeld apple-moked-bacon)
