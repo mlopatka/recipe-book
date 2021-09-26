@@ -5,6 +5,9 @@
 * 6-12 uur weken kapucijners
 * 60 minuten
 
+<img src="images/captainsdinner.jpg" width="400">  
+
+
 ## Ingrediënten
 
 * 250 g droge kapucijners
