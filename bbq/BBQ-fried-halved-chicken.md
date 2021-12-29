@@ -29,4 +29,4 @@
 * The internal temperature of the chicken should reach 75C (165F) degrees.
 * Remove chicken from grill and let rest in foil for 5-10 minutes.
 
-marinade adapted from [recipe on modernhoney](https://www.modernhoney.com/the-best-chicken-marinade-recipe/)
+marinade adapted from [recipe on modernhoney](https://www.modernhoney.com/the-best-chicken-marinade-recipe/).
