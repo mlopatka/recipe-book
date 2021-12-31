@@ -31,4 +31,4 @@ Preparation time: 50 mins
 ### Eet Smakelijk!
 
 recipe inspired by / adapted from [Happy Kitchen Rocks](https://happykitchen.rocks/georgian-eggplant-rolls-with-walnuts/)
-recipe of khmeli suneli [Happy Kitchen Rocks](https://happykitchen.rocks/tkemali-georgian-plum-sauce-khmeli-suneli-seasoning-recipe/)
+recipe of khmeli suneli [Happy Kitchen Rocks](https://happykitchen.rocks/khmeli-suneli-georgian-spice-mix/)
