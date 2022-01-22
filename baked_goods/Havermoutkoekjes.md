@@ -12,8 +12,7 @@ Dit recept is voor lekker knapperige havermoutkoekjes.
 * Oven voorverwarmen op 175 celsius.
 * Mix boter met basterdsuiker met de kneedhaak. 
 * Meng in een andere kom de bloem, bakpoeder en havermout. Voeg dit samen met een eetlepel melk toe aan het boter mengsel. 
-Met de hand balletjes iets groter dan een knikker rollen. 
-Op de bakplaat, met bakpapier om en om (ze lopen uit)leggen en met een vork platdrukken. 
+* Rol met de hand balletjes van 1.5-2 cm. Leg om en om op een met bakpapier beklede bakplaat, druk evt met een vork een beetje plat. 
 
 ## Baking
 * 10-12 minuten 
