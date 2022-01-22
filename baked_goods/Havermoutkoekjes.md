@@ -1,7 +1,8 @@
 # Havermoutkoekjes
+Dit recept is voor lekker knapperige havermoutkoekjes. 
 
 ## Ingredients
-* 100 gr zelfrijzendbakmeel
+* 100 gr zelfrijzendbakmeel, of 100 gr bloem en 3 gr bakpoeder (een afgestreken theelepel)
 * 200 gr bruine basterdsuiker
 * 125 gr boter 
 * 150 gr havermout
@@ -15,6 +16,6 @@ Met de hand balletjes iets groter dan een knikker rollen.
 Op de bakplaat, met bakpapier om en om (ze lopen uit)leggen en met een vork platdrukken. 
 
 ## Baking
-* ** 10-12 minuten 
+* 10-12 minuten 
 
 ## Bron [Smulweb](https://www.smulweb.nl/recepten/1372127/Ouderwetse-havermoutkoekjes)
