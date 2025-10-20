@@ -87,4 +87,4 @@ Let the char siu rest for 10 minutes before slicing. Slice and serve hot with ri
 - **Room temperature cooking:** Always cook meat from room temperature for best results. If refrigerated, let cold meat rest on the counter for 1 hour before cooking
 
 ## Source
-Recipe adapted from Made with Lau: https://www.madewithlau.com/recipes/char-siu-chinese-bbq-pork
+Recipe adapted by Victor Ng from Made with Lau : https://www.madewithlau.com/recipes/char-siu-chinese-bbq-pork
