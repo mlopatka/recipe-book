@@ -25,4 +25,6 @@ Preparation time: 20 mins + 45–60 mins cooking
 
 ### Enjoy!
 
+original recipe by Martin Lopatka
+
 > ⚠️ **TODO:** Red curry paste quantity is given as "125–200 ml" which is an unusually large range. Verify preferred heat level — start with 125 ml (½ cup) and add more to taste.

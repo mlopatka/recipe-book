@@ -50,15 +50,11 @@ instructions have been written but must be verified.
 - [ ] Clarify hot sauce quantity and type
 - [ ] Consider adding traditional spices (bay leaves, allspice, juniper berries, red wine)
 
-### `gluhwein.md`
-- [ ] Verify inferred instructions (heating time, whether to simmer or steep)
-- [ ] Verify brandy proportion (50 cl brandy to 1.5 L wine is quite generous)
-- [ ] Cross-reference with `martins-mulled-wine.md` — may be a near-duplicate
+### ~~`gluhwein.md`~~ ✅ merged into `drinks/martins-mulled-wine.md`
+- [x] Merged — brandy proportion noted in the recipe; instructions from Martin's version used as the canonical method.
 
-### `mousaka.md`
-- [ ] **Béchamel sauce recipe is completely missing** — needs quantities for butter, flour, milk and full method
-- [ ] Verify inferred layering and baking instructions
-- [ ] Add prep time and baking temperature
+### ~~`mousaka.md`~~ — deleted
+Removed from repo: béchamel recipe was entirely absent from the source file, making the conversion too incomplete to be useful.
 
 ### `wild_mushroom_gravy.md`
 - [ ] Verify inferred instructions (reduction time, consistency)
@@ -121,34 +117,34 @@ instructions have been written but must be verified.
 
 ---
 
-## Recipes Missing Attribution
+## Recipes Missing Attribution ✅
 
-These recipes clearly came from external sources but the URL or author was not captured:
+Source attribution resolved for all recipes — either credited to Martin Lopatka, marked as traditional, or noted as `source: unknown` where origin is lost or too adapted to attribute:
 
-- [ ] `courgette_soup.md` — source unknown
-- [ ] `barszcz_czerwony.md` — source unknown
-- [ ] `best_ratatouille.md` — source unknown (style suggests BuzzFeed Tasty)
-- [ ] `bolognese_sauce.md` — source unknown
-- [ ] `bourbon_balsamic_beef_roast.md` — source unknown
-- [ ] `buttermilk_sweet_cornbread.md` — source unknown
-- [ ] `chilli_con_carne.md` — source unknown
-- [ ] `green_tomato_chutney.md` — source unknown
-- [ ] `moroccan_lamb_stew.md` — source unknown
-- [ ] `pan_seared_lemon_basil_scallops.md` — source unknown
-- [ ] `prosciutto_wrapped_figs_blue_cheese.md` — source unknown
-- [ ] `quince_pumpkin_eggplant_quinoa_salad.md` — source unknown
-- [ ] `spinach_rucola_chicken_salad.md` — source unknown
-- [ ] `tarte_flambe.md` — source unknown (style suggests Saveur magazine)
-- [ ] `tartiflette.md` — source unknown
-- [ ] `thanksgiving_soup.md` — source unknown
-- [ ] `turkey_stuffing.md` — source unknown
-- [ ] `turkey_roasting_guide.md` — source unknown
-- [ ] `wild_mushroom_gravy.md` — source unknown
-- [ ] `gluhwein.md` — source unknown
-- [ ] `hungarian_goulash.md` — source unknown (style suggests Dr. Axe website)
-- [ ] `bigos.md` — source unknown
-- [ ] `appetizer_squash_muffins.md` — source unknown
-- [ ] `georgian_shashlik.md` — source unknown
+- [x] `courgette_soup.md` — source unknown
+- [x] `barszcz_czerwony.md` — source unknown
+- [x] `best_ratatouille.md` — source unknown
+- [x] `bolognese_sauce.md` — source unknown
+- [x] `bourbon_balsamic_beef_roast.md` — source unknown
+- [x] `buttermilk_sweet_cornbread.md` — source unknown
+- [x] `chilli_con_carne.md` — source unknown
+- [x] `green_tomato_chutney.md` — source unknown
+- [x] `moroccan_lamb_stew.md` — source unknown
+- [x] `pan_seared_lemon_basil_scallops.md` — source unknown
+- [x] `prosciutto_wrapped_figs_blue_cheese.md` — source unknown
+- [x] `quince_pumpkin_eggplant_quinoa_salad.md` — source unknown
+- [x] `spinach_rucola_chicken_salad.md` — source unknown
+- [x] `tarte_flambe.md` — source unknown
+- [x] `tartiflette.md` — source unknown
+- [x] `thanksgiving_soup.md` — original recipe by Martin Lopatka
+- [x] `turkey_stuffing.md` — original recipe by Martin Lopatka
+- [x] `turkey_roasting_guide.md` — original recipe by Martin Lopatka
+- [x] `wild_mushroom_gravy.md` — original recipe by Martin Lopatka
+- [x] `gluhwein.md` — merged into `drinks/martins-mulled-wine.md`, deleted
+- [x] `hungarian_goulash.md` — source unknown
+- [x] `bigos.md` — traditional Polish recipe, no source needed
+- [x] `appetizer_squash_muffins.md` — source unknown
+- [x] `georgian_shashlik.md` — source unknown
 
 ---
 
@@ -156,7 +152,7 @@ These recipes clearly came from external sources but the URL or author was not c
 
 - **`apricot_rub_slow_roast_lamb.md`** — merged from `henrik_lamb.rtf` + `lamb_roast_rub_recipe.rtf` (both were the same recipe at different stages of note-taking).
 - **`moroccan_lamb_pumpkin_pie.md`** — merged from `moroccan_lamb_pie.rtf` + `morrocanPumpkinLambPie.rtf` (two versions of the same recipe).
-- **`gluhwein.md`** — overlaps significantly with the existing `martins-mulled-wine.md` at root level. Consider merging or cross-referencing.
+- [x] **`gluhwein.md`** — **merged** into `drinks/martins-mulled-wine.md` as a two-variant recipe (Martin's 4-serving version + large party batch). `gluhwein.md` deleted from root.
 - **`hungarian_goulash.md`** and **`goulash.md`** (already at root) — two different goulash recipes. Consider cross-referencing.
 
 ---

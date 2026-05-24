@@ -26,4 +26,6 @@ Makes: ~500 ml gravy
 
 ### Enjoy!
 
+original recipe by Martin Lopatka
+
 > ⚠️ **TODO:** Original source contained ingredients only — no instructions recorded. Steps above are inferred from standard mushroom gravy technique. Typically paired with turkey (see [Turkey Roasting Guide](turkey_roasting_guide.md)).

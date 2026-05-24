@@ -49,3 +49,5 @@ Preparation time: 45 mins
 * Use immediately to stuff the turkey, or bake separately.
 
 ### Enjoy!
+
+original recipe by Martin Lopatka

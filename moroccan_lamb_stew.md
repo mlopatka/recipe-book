@@ -38,3 +38,5 @@ Preparation time: ⚠️ TODO — not recorded in source
 ### Enjoy!
 
 > ⚠️ **TODO:** Original source file contained ingredients only — no instructions recorded. Steps above are inferred from standard Moroccan slow-cook technique. Verify and correct as needed.
+
+source: unknown

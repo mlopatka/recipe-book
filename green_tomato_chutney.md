@@ -27,3 +27,5 @@ Makes: 3–4 preserve jars
 ### Enjoy!
 
 > **Serving suggestions:** Excellent with mature cheese, cold meats, or alongside a ploughman's lunch.
+
+source: unknown

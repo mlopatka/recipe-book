@@ -37,3 +37,5 @@ Preparation time: 25 mins
 * **Assemble:** Toss the spinach and rucola with the dressing in a large bowl. Arrange on plates. Top with mandarine segments, honey-fried goat cheese, sliced beets and pine nuts. Lay sliced chicken over the top.
 
 ### Enjoy!
+
+source: unknown

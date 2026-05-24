@@ -63,4 +63,6 @@ Portions: variable
 
 ### Enjoy!
 
+original recipe by Martin Lopatka
+
 > ⚠️ **TODO:** Ingredient quantities for sage butter, maple glaze and gravy are not specified in source. Add quantities when verified.

@@ -26,4 +26,6 @@ Preparation time: ⚠️ TODO — not recorded in source
 
 ### Smacznego!
 
+traditional Polish recipe
+
 > ⚠️ **TODO:** Original source contained ingredients only — no instructions or proportions for hot sauce or water. Steps above are inferred from traditional bigos technique. Verify quantities and method. Classic bigos often includes red wine, bay leaves, allspice and juniper berries — consider adding if desired.
