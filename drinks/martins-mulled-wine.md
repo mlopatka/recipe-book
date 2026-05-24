@@ -1,25 +1,54 @@
-## Festive Mulled wine for cold weather occasions
-Preparation time: 30 minutes
-4 servings (180ml mug)  
+# Glühwein / Mulled Wine
+_Dutch_, _German_, _drinks_, _winter_, _festive_  
+Preparation time: 30 mins  
 
-## Ingredients
-* 1 standard bottle (750ml) of red wine (I like a juicy syrah/tempranillo)
+---
+
+## Martin's Mulled Wine (4 servings / 180 ml mugs)
+
+### Ingredients
+* 1 standard bottle (750 ml) red wine — a juicy Syrah or Tempranillo works well
 * 10 whole cloves
-* 5 dried star anise 
-* 1 small/medium orange cut in half
-* 1/2 lemon 
+* 5 dried star anise
+* 1 small/medium orange, cut in half
+* 1/2 lemon
 * 2 cinnamon sticks
-* 100g whte granulated sugar
-* (optoional) bourbon 
+* 100 g white granulated sugar
+* (optional) bourbon — a shot per mug to serve
 
-## Preparation
-* Empty the bottle of red wine into a small pan and warm under medium heat to just before boiling point. If the wine starts to boil, bring temperature down immediately to keep hot without letting it reach a rolling boil.
-* Peel the rind off of the lemon-half with a citrus peeler or sharp paring knife.* Peel the rind off of the lemon-half with a citrus peeler or sharp paring knife.
-* Add the cloves, start anise, both orange halves, lemon, lemon rind, and cinnamon sticks into the red wine.
-* Stir in the whte sugar and then keep stirring the whole concoction periodically for 15-20 minutes.
-* Roughly crush the citrus fruits (orange and lemon) against the bottom of the pan with a wooden stirring spoon to release some of the juices. Do not juice the fruits or aim to pulverize the fruits, just squish them against the side of the pot after they have had a chance to stew in the red wine.
-* Serve in festive mugs, hot out of the pot with an (optional) shot of bourbon.
-* More wine and sugar can be added to the pot to scale this recipe to more servings (up to 8-12 total servings). However, longer duration on heat is needed to diffuse the flavours from this set of spices and fruits.
+### Preparation
+* Empty the bottle of red wine into a small pan and warm over medium heat to just before boiling point. If the wine starts to boil, immediately reduce the heat — keep it hot but **never at a rolling boil**.
+* Peel the rind off the lemon half with a citrus peeler or sharp paring knife.
+* Add the cloves, star anise, both orange halves, lemon half, lemon rind and cinnamon sticks to the hot wine.
+* Stir in the sugar and keep stirring periodically for 15–20 minutes.
+* After the fruits have had a chance to stew, roughly crush the orange and lemon halves against the bottom of the pan with a wooden spoon to release some juice. Don't pulverise — just a firm squish.
+* Strain and serve in festive mugs, hot from the pot. Add an optional shot of bourbon per mug.
 
+> **Scaling up:** Add more wine and sugar to scale to 8–12 servings. Allow longer time on the heat to let the spices and fruit fully infuse the extra volume.
 
+---
 
+## Large Batch / Party Version — Glühwein (8–10 servings)
+
+### Ingredients
+* 1.5 L red wine
+* 500 ml brandy
+* 500 ml water
+* 2 oranges
+* 2 cinnamon sticks
+* 2 star anise
+* 12 cloves
+* 4 tablespoons sugar
+
+### Preparation
+* Peel the zest from the oranges in wide strips, avoiding the white pith. Squeeze the juice from the oranges.
+* Combine all ingredients in a large pot over medium heat. Stir to dissolve the sugar.
+* Heat gently — do not boil — until steaming and fragrant, about 20–30 minutes.
+* Taste and adjust sweetness or spice.
+* Strain into mugs and serve hot, garnished optionally with a cinnamon stick or orange slice.
+
+> **Note on brandy proportion:** 500 ml brandy to 1.5 L wine is a generous ratio — adjust to taste and occasion.
+
+---
+
+### Proost!
